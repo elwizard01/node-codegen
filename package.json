@@ -1,0 +1,24 @@
+{
+  "author": "psirenny <djtorres0@gmail.com>",
+  "bugs": {
+    "url": "https://github.com/psirenny/node-echoprint-codegen/issues"
+  },
+  "description": "Echoprint Codegen wrapper for node",
+  "keywords": [
+    "node",
+    "echoprint",
+    "codegen"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "echoprint-codegen",
+  "readmeFilename": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/psirenny/node-echoprint-codegen.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.1.5"
+}
